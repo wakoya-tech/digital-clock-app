@@ -1,0 +1,11 @@
+body{
+  background: rgb(59, 51, 51);
+  color: white;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  border: 4px solid rgb(155, 219, 221);
+}
